@@ -3,8 +3,7 @@ BioJS Developer Guidelines
 
 ### Introduction
 
-These guidelines are designed to detail best practice in using various packages, components or APIs available in BioJS as a developer. With BioJS, one can either 
-
+These guidelines are designed to detail best practice in using various packages, components or APIs available in BioJS as a developer.
 
 ### Learning Resources
 
