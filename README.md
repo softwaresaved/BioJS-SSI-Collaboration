@@ -14,17 +14,17 @@ The review aims to address the following:
 
 The products of this project are:
 
-* ** User Experience Review **:
+* *User Experience Review*:
 
   - [User experience review]
-  - [User guide] (""): This document will act as a _QuickStart Guide_ that will tell end-user or new developer how to use BioJS framework and get started easily.
+  - [User guide]: This document will act as a _QuickStart Guide_ that will tell end-user or new developer how to use BioJS framework and get started easily.
 
-* ** Developer Experience Review **:
+* *Developer Experience Review*:
 
   - This document contains the review of the concept of BioJS 2.0 registry
 
-* ** Documentation Guidelines **:
+* *Documentation Guidelines*:
 
-* ** Gold Standards ** :
+* *Gold Standards*:
 
 These products of review by SSI are intended to help the BioJS project reach production level, to seek additional funding to support the project and in delivering reusable packages. 
